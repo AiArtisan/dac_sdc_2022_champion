@@ -6,7 +6,7 @@ This is a repository for a hardware-efficient DNN accelerator on FPGA specialize
 
 Designed by:
 
-> Jingwei Zhang, Xinye Cao, Yu Zhang, Guoqing Li, Meng Zhang*
+> Jingwei Zhang, Xinye Cao, Yu Zhang, Guoqing Li, Meng Zhang
 
 > SEUer Group, Southeast University
 
