@@ -10,7 +10,7 @@ Designed by:
 
 > SEUer Group, Southeast University
 
-[![picture](https://github.com/seujingwei/dac_sdc_2022_champion/raw/master/rank.png)]()
+[![picture](https://github.com/seujingwei/dac_sdc_2022_champion/raw/master/ranking.png)]()
 
 ## Overview
 
